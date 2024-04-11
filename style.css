@@ -145,6 +145,8 @@ h1,h2,h3{
 .square{padding-bottom:100%;}
 .landscape{padding-bottom:66%;}
 
+.block{display:block;}
+
 .bg-image{
     background-image: url('/images/amsterdam.jpg');
     background-size:cover;
