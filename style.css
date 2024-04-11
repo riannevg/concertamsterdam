@@ -169,6 +169,7 @@ h1,h2,h3{
     background-position:center;
     background-color:var(--blue);
     background-repeat:no-repeat;
+    background: height 100%;
 }
 
 .bg-logo{
